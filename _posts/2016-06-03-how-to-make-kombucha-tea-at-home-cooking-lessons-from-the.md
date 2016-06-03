@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.thekitchn.com/how-to-make-kombucha-tea-at-home-cooking-lessons-from-the-kitchn-173858'
 title: How To Make Kombucha Tea at Home - Cooking Lessons from The Kitchn
-datePublished: '2016-06-03T01:10:21.297Z'
-dateModified: '2016-06-03T01:10:21.180Z'
+datePublished: '2016-06-03T01:10:21.325Z'
+dateModified: '2016-06-03T01:10:21.190Z'
 starred: false
 sourcePath: _posts/2016-06-03-how-to-make-kombucha-tea-at-home-cooking-lessons-from-the.md
 inFeed: true
