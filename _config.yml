@@ -1,0 +1,14 @@
+layout_spectrum: 0.9203289055731148
+typography_spectrum: 0.49844430456869304
+color:
+  brandStrength: 0.19137409212999046
+  lightness: 0.3664844681043178
+  saturation: 0.5128258762415498
+  rhythmicContrast: 0.19823311734944582
+  brandColors:
+    - '#10222B'
+    - '#95AB63'
+    - '#BDD684'
+    - '#E2F0D6'
+    - '#F6FFE0'
+name: KombuchaWiz
