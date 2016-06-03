@@ -6,9 +6,9 @@ color:
   saturation: 0.5128258762415498
   rhythmicContrast: 0.19823311734944582
   brandColors:
-    - '#10222B'
-    - '#95AB63'
-    - '#BDD684'
-    - '#E2F0D6'
-    - '#F6FFE0'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
 name: KombuchaWiz
